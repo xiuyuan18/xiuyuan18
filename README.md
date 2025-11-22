@@ -19,7 +19,7 @@ When I'm not training models, you can find me experimenting with different Linux
 #### 💻 Tech & Tools
 *   **3D Vision:** Open3D, PyTorch3D, OpenCV, COLMAP
 *   **AI/ML:** PyTorch, Python, NumPy, SciPy
-*   **Systems:** Linux (Arch/Ubuntu), Docker, Podman, Git, Bash
+*   **Systems:** Linux (Ubuntu/Fedora), Docker, Podman, Git, Bash
 
 #### 📫 How to reach me
 *   Email: [1155211255@link.cuhk.edu.hk]

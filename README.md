@@ -25,7 +25,7 @@ When I'm not training models, you can find me experimenting with different Linux
 *   Email: [1155211255@link.cuhk.edu.hk]
 
 #### 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xiuyuan18&show_icons=true&theme=radical)](https://github.com/xiuyuan18)
 
 ---
 

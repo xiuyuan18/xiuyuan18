@@ -9,7 +9,7 @@ When I'm not training models, you can find me experimenting with different Linux
 ---
 
 #### 🔭 I’m currently working on
-*   My final year project related to 3D scene reconstruction.
+*   Planing my research project related to 3D/4D scene reconstruction.
 *   Building and containerizing computer vision pipelines.
 
 #### 🌱 I’m currently learning

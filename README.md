@@ -22,7 +22,7 @@ When I'm not training models, you can find me experimenting with different Linux
 *   **Systems:** Linux (Ubuntu/Fedora), Docker, Podman, Git, Bash
 
 #### 📫 How to reach me
-*   Email: [1155211255@link.cuhk.edu.hk]
+*   Email: [xyyu@link.cuhk.edu.hk]
 
 #### 📊 GitHub Stats
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xiuyuan18&show_icons=true&theme=radical)](https://github.com/xiuyuan18)
